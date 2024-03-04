@@ -15,6 +15,10 @@ This is a frontend clone of the website Amazon. The page is optimized for larger
 - Mimics the user interface of the Amazon E-commerce website.
 - Utilizes HTML, CSS, and Vanilla JavaScript for a lightweight and efficient implementation.
 
+## Deployment
+
+This project is deployed on Netlify https://amazon-clone-frontend1.netlify.app/
+
 ## Usage
 
 To view the Amazon-Clone-01 project, simply open the `index.html` file in a web browser. Ensure that you have a modern web browser installed, and open the HTML file by following these steps:
