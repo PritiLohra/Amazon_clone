@@ -30,4 +30,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This project is an educational exercise and is not affiliated with Amazon.
-- Special thanks to contributors who have helped improve and maintain the project.
