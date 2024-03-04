@@ -27,10 +27,6 @@ To view the Amazon-Clone-01 project, simply open the `index.html` file in a web 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-Feel free to contribute to the project by submitting pull requests. Follow the guidelines in the [CONTRIBUTING](CONTRIBUTING.md) file.
-
 ## Acknowledgments
 
 - This project is an educational exercise and is not affiliated with Amazon.
