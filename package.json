@@ -1,0 +1,12 @@
+{
+  "name": "amazon-clone-01-main",
+  "version": "1.0.0",
+  "description": "A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS and Vanilla Javascript. The page is created for big screens i.e, laptops, PCs only.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
