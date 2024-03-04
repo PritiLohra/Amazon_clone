@@ -1,11 +1,11 @@
 # Amazon-Clone-01
 
-A frontend clone of the E-commerce website Amazon. This project is created using HTML, CSS, and Vanilla JavaScript. The page is optimized for larger screens such as laptops and PCs.
+This is a frontend clone of the website Amazon. The page is optimized for larger screens such as laptops and PCs.
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - CSS Animations
 - JavaScript
 
