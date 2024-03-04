@@ -1,4 +1,4 @@
-# Amazon-Clone-01
+# Amazon_clone
 
 This is a frontend clone of the website Amazon. The page is optimized for larger screens such as laptops and PCs.
 
